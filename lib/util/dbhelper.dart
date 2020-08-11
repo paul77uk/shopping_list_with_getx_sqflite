@@ -1,4 +1,3 @@
-import 'package:ch_06/models/third_items.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 import '../models/list_items.dart';
